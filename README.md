@@ -17,4 +17,3 @@ Clone the repository to dive into advanced Rust topics.
 ## Future Plans
 - More projects showcasing Rust capabilities
 - Community contributions and examples
-
